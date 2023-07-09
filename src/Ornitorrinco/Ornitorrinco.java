@@ -2,7 +2,7 @@ package Ornitorrinco;
 
 public class Ornitorrinco extends Mamifero implements Anfibio, Venenoso, Oviparo {
 
-    private int huevos;
+    int huevos;
     public Ornitorrinco(int huevos) {
         this.huevos = huevos;
     }
