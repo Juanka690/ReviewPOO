@@ -1,3 +1,5 @@
+package Alumno;
+
 import java.util.Scanner;
 
 public class Aplicacion {
